@@ -1,0 +1,11 @@
+{
+  "spotify": {
+    "client_id": "YOUR_SPOTIFY_CLIENT_ID",
+    "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET",
+    "redirect_uri": "YOUR_SPOTIFY_REDIRECT_URI"
+  },
+  "telegram": {
+    "api_id": "YOUR_TELEGRAM_API_ID",
+    "api_hash": "YOUR_TELEGRAM_API_HASH"
+  }
+}
